@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE boutique SYSTEM 'Projet.dtd'>
+<?xml-stylesheet type="text/xsl" href="projet.xsl"?>
 
 <boutique>
   <rayon nom="homme">
